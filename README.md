@@ -1,2 +1,2 @@
 # watchlist-exercise
-upload imag on watchlist exe challenge
+upload image on watchlist exe challenge
